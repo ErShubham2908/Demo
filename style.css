@@ -1,0 +1,33 @@
+/* .sample{
+    width: 40%;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.sample1{
+    background-image: linear-gradient(to top, red, green, blue);
+}
+
+.sample2{
+    background-image: radial-gradient(black, red);
+}
+
+.sample3{
+    background-image: url('https://cdn.telanganatoday.com/wp-content/uploads/2021/07/IT-office.jpg');
+    background-size: cover;
+    tex
+} */
+
+/* .sample{
+    width: 150px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.sample1{
+    display: inline;
+} */
+
+h1{
+    font-family: "Rubik Gemstones", system-ui;
+}

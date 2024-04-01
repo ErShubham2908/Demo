@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    height: 90vh;
+    border: 1px solid blue;
+    margin: auto;
+    position: relative;
+}
+
+.child{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+#child2{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}

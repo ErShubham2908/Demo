@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent{
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.child0{
+    display: flex;
+    width: 100%;
+    height: auto;
+    /* border: 2px solid red; */
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.child{
+    width: 49%;
+    height: auto;
+    border: 2px solid green;
+}
+
+.child2 img{
+    width: 100%;
+    height: auto;
+    padding: 2em;
+}
